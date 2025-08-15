@@ -2,7 +2,7 @@
   <li>👋 Hi, I’m Monah Chimwamafuku</li>
   <li>👀 I’m interested in Web-Development, Mobile Development, Data Analytics, Enterprise Solutions,software testing, Security Testing And analysis
 </li>
-  <li>🎓 i Hold a !st class degree in Software Engineering</li>
+  <li>🎓 i Hold a 1st class degree in Software Engineering</li>
    <li>🧰 My skills include Javascript, Java, C#,dart, php, dart</li>
   <li>🌱 I’m currently learning  .net and python</li>
   <li>💞️ I’m looking to collaborate on any development projects that can help sharpen my skills</li>
